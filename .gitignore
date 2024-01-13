@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# Personal Configurations
+.npmrc
+.env
+.prettierrc
+
