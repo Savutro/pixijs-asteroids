@@ -1,3 +1,5 @@
+import * as PIXI from 'pixi.js';
+
 // Spielfeldgrösse setzen
 const gameSize = 600; 
 
